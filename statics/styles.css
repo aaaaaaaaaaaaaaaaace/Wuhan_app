@@ -1,0 +1,23 @@
+body {
+    background-image: url("https://media1.giphy.com/media/xUPGcGUKb0PfbqyGg8/giphy.gif?cid=790b76116c4b0c4a691477d891d6e11482d4cb60dac5866d&rid=giphy.gif");
+    text-align: center;
+}
+
+h1 {
+    padding: 1px;
+    
+}
+
+#para1 {
+    font-size:50px;
+}
+
+#linklink {
+    font-size: 75px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+#youtube {
+    font-size: 20px;
+}
